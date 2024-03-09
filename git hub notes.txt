@@ -1,0 +1,56 @@
+                                                      Git and GitHub Notes..
+1)git init (initialized empty repository in folder)
+2)git status (this command used to see for folder status)
+3)git add .(use this command to add files in ripository)
+4)git commit -m "add files first.txt and second.txt" (use this command for commit files)
+5)git log "this command use to see current branch)
+6)git commit -m "update first.txt" "this command use for update any commited file)
+7)git reset "this command will remove file from stagiing area, and can remove changes in            files if the are not commited)
+8)git reset --hard "this command discord all changes in files as well as unstaging all files who exits in staging area)
+9).ext "this command actullay this is not command it is extention of ignore file)
+
+
+
+                                                       LESSON NO 3 START FROM 10 QUWSTIONS..
+
+10)git branch " with this command showed list of branches"
+11)git branch -v "with this command showed list of branches with some details"
+12)git branch Hamza "whith this command create new branch with name Hamza"
+13)Git checkout Hamza  "with this command switch to Hamza branch"
+14)git merge Hamza  "Hamza branch into current active branch"
+15)git log Hamza..master "show commit difference in ntwo branches"
+16)git stash (saved local changes stash clipboard)
+17)git stash save <name> (save local changes in stash clipbaord with the name provided in command)
+18)git stash list(show list of stashes)
+19)git stash pop(applay latest stash and remove it from clipboard)
+20)git stash apply stashname(apply specific stash and thth stash will remain saved in clipboard.
+21)git stash clear (remove all stashes)
+
+
+
+                                                        LESSON NO 4 START FROM 22 QUESTIONS..
+22)git clone (pase here git hub repository url without squar braket)
+22) git config --global user.name hamza
+23) git config --global user.email hamzii2205@gmail.com
+24 git push(push changes to remote repository)
+25 git fetch (fetch changes from remote repository)
+26 git merge (merge changes that was fetch by git fetch command)
+27 git pull(fetch and merge changes from remote repository)
+28 git remote -v(show remote urls)
+29 git remote show origin(show details of origin)
+30 git remote add myremote (here drop URL without squar brakets) (This command will add              emote repo in local repository)
+31) git push -u origin master (the "-U" flag establishes a tracking connection between remote and our local)
+32) git log repositoryName/branchName(shows logs for current branch)
+
+
+
+                                            LESSON NO 5 START FROM 33
+33)git branch -d hamzi_branch (when you are done with a branch and it is no longer needed then you can delete the branch.
+
+34)gir branch -dr origin/hamza_bran (this command delete remote branch, add "r" flag.
+35)git push origin --delete hamzaO_branch (this command delete branch from github)
+
+
+
+
+
