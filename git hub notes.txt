@@ -47,8 +47,14 @@
                                             LESSON NO 5 START FROM 33
 33)git branch -d hamzi_branch (when you are done with a branch and it is no longer needed then you can delete the branch.
 
-34)gir branch -dr origin/hamza_bran (this command delete remote branch, add "r" flag.
+34)git branch -dr origin/hamza_bran (this command delete remote branch, add "r" flag.
 35)git push origin --delete hamzaO_branch (this command delete branch from github)
+36)git checkout HEAD filename.txt (Discard changes in single file)
+37)git reset --hard HEAD (Discard all changes that are not committed)
+38)git revert commitHashName (you can undo committed changes using following command)
+39)git reset --hard commitHashName(---------------------------------------------)
+40)git reset --keep commitHashName(with this command all changes from rolled back revisions
+   will be preserved as local changes in your working directory.)
 
 
 
