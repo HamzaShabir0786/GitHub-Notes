@@ -47,11 +47,8 @@
                                             LESSON NO 5 START FROM 33
 33)git branch -d hamzi_branch (when you are done with a branch and it is no longer needed then you can delete the branch.
 
-34)gir branch -dr origin/hamza_bran (this command delete remote branch, add "r" flag.
-35)git push origin --delete hamzaO_branch (this command delete branch from github)
-update here from local machine
-
-
+34)git branch -dr origin/hamza_bran (this command delete remote branch, add "r" flag.
+35)git push origin --delete hamzaO_branch (this command delete branch from github).
 
 
 
