@@ -49,6 +49,7 @@
 
 34)gir branch -dr origin/hamza_bran (this command delete remote branch, add "r" flag.
 35)git push origin --delete hamzaO_branch (this command delete branch from github)
+update here from local machine
 
 
 
