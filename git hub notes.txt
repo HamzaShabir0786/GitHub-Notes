@@ -57,4 +57,6 @@
    will be preserved as local changes in your working directory.)
 35)git push origin --delete hamzaO_branch (this command delete branch from github).
 
+36) update form local machine
+
 
