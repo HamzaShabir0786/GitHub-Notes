@@ -5,7 +5,7 @@
 4)git commit -m "add files first.txt and second.txt" (use this command for commit files)
 5)git log "this command use to see current branch)
 6)git commit -m "update first.txt" "this command use for update any commited file)
-7)git reset "this command will remove file from stagiing area, and can remove changes in            files if the are not commited)
+7)git reset "this command will remove file from stagiing area, and can remove changes in files if the are not commited)
 8)git reset --hard "this command discord all changes in files as well as unstaging all files who exits in staging area)
 9).ext "this command actullay this is not command it is extention of ignore file)
 
@@ -58,5 +58,12 @@
 35)git push origin --delete hamzaO_branch (this command delete branch from github).
 
 36) update form local machine
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 				PART 2 GIT HUB ADVANCE
+
+1) git config --global --get-all user.name  (when we add multiple user name and when we want to know all user name)
+2) git config --global --unset-all user.name (when we want to remove all user name)
+3) git config --global --replace-all user.name "Your New Name"  (when I have multiple user name and when I want replace by one name)
 
 
