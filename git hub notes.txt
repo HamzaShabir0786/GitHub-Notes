@@ -38,7 +38,8 @@
 27 git pull(fetch and merge changes from remote repository)
 28 git remote -v(show remote urls)
 29 git remote show origin(show details of origin)
-30 git remote add myremote (here drop URL without squar brakets) (This command will add              emote repo in local repository)
+30 git remote add origin (here drop URL without squar brakets) (This command will   remote repo in local repository)
+31)git push --set-upstream origin master (this command convert from local master branch to server origin branch )
 31) git push -u origin master (the "-U" flag establishes a tracking connection between remote and our local)
 32) git log repositoryName/branchName(shows logs for current branch)
 
